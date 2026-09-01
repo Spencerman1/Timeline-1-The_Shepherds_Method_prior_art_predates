@@ -1,0 +1,11 @@
+Vertical / Medium / Technology,Reflexive Orchestration,Interface Tier Selection,Burn-after-verification,Intent-bound issuance,Credential TTL / Expiry Logic,Lifecycle Credential Control,Mirroring Shepherd’s Method™
+Agentic AI Frameworks,✓,✓,✓ (mirrored),✓ (mirrored),✓,✓,✓
+"LLM API Credentialing (OpenAI, Anthropic)",✓,✓,✓ (partial),✓ (partial),✓,✓,✓
+"Cloud Orchestration (AWS Bedrock, GCP, Azure)",✓,✓,✗,✗,✓,✓,✓
+"Tokenization Rails (X402, L402)",✓,✓,✓,✓,✓,✓,✓
+"Hardware Orchestration (NVIDIA H200, Apple AI chip)",✓,✓,✗,✗,✓,✓,✓
+"Blockchain Credential Models (ERC-4337, zkAuth)",✗,✗,✗,✗,✗,✗,✗
+"Enterprise IAM Systems (Okta, AWS IAM)",✓,✓,✓ (revocation),✓ (policy issuance),✓,✓,✓
+"CI/CD Systems (GitHub Actions, GitLab CI)",✓,✓,✗,✗,✓,✓,✓
+Autonomous Agents / Reflex Loops,✓,✓,✓,✓,✓,✓,✓
+"AI Planning Graphs (AutoGPT, BabyAGI)",✓,✓,✓,✓,✓,✓,✓
